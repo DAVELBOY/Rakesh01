@@ -10,7 +10,7 @@ Gamer
 </head>
 <body>
     <header>
-        <h1>Your Website</h1>
+        <h1>Rakesh Gamer</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
